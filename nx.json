@@ -17,6 +17,7 @@
   },
   "projects": {
     "react-app": { "tags": [] },
-    "react-app-e2e": { "tags": [], "implicitDependencies": ["react-app"] }
+    "react-app-e2e": { "tags": [], "implicitDependencies": ["react-app"] },
+    "ui-header": { "tags": [] }
   }
 }
