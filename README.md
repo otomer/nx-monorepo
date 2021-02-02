@@ -16,6 +16,10 @@ This project was generated using [Nx](https://nx.dev).
 - Visualise the impacted dependencies graph: `nx affected:dep-graph`
 - Check a specific affected dependency: `nx affected:test`
 
+### Dependencies graph
+
+<img src="https://i.ibb.co/17JTh18/Screen-Shot-2021-02-02-at-9-50-53.png" alt="Screen-Shot-2021-02-02-at-9-50-53" border="0">
+
 ## Adding capabilities to your workspace
 
 Nx supports many plugins which add capabilities for developing different types of applications and different tools.
