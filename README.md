@@ -2,9 +2,11 @@
 
 # NxMonorepo
 
+<img src="https://i.ibb.co/phFy2NF/Screen-Shot-2021-02-02-at-9-57-19.png" alt="Screen-Shot-2021-02-02-at-9-57-19" border="0">
+
 This project was generated using [Nx](https://nx.dev).
 
-<p align="center"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="450"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" height="120"></p>
 
 🔎 **Nx is a set of Extensible Dev Tools for Monorepos.**
 
