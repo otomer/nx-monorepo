@@ -2,13 +2,9 @@
 
 # NxMonorepo
 
-<img src="https://i.ibb.co/phFy2NF/Screen-Shot-2021-02-02-at-9-57-19.png" alt="Screen-Shot-2021-02-02-at-9-57-19" border="0">
-
-This project was generated using [Nx](https://nx.dev).
-
-<p align="center"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" height="120"></p>
-
-🔎 **Nx is a set of Extensible Dev Tools for Monorepos.**
+<p align="center">
+<img height="120" src="https://i.ibb.co/phFy2NF/Screen-Shot-2021-02-02-at-9-57-19.png" alt="Screen-Shot-2021-02-02-at-9-57-19" border="0"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" height="80">
+</p>
 
 ## Handy commands
 
@@ -21,6 +17,12 @@ This project was generated using [Nx](https://nx.dev).
 ### Dependencies graph
 
 <img src="https://i.ibb.co/17JTh18/Screen-Shot-2021-02-02-at-9-50-53.png" alt="Screen-Shot-2021-02-02-at-9-50-53" border="0">
+
+<hr/>
+
+This project was generated using [Nx](https://nx.dev).
+
+🔎 **Nx is a set of Extensible Dev Tools for Monorepos.**
 
 ## Adding capabilities to your workspace
 
