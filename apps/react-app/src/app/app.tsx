@@ -6,12 +6,14 @@ import { ReactComponent as Logo } from './logo.svg';
 import star from './star.svg';
 
 import { Route, Link } from 'react-router-dom';
+import { PageTitle } from '@nx-monorepo/ui-header';
 
 export function App() {
   return (
     <div className={styles.app}>
       <header className="flex">
         <Logo width="75" height="75" />
+        <PageTitle />
         <h1>Welcome to react-app!</h1>
       </header>
       <main>
