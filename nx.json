@@ -19,6 +19,7 @@
     "react-app": { "tags": [] },
     "react-app-e2e": { "tags": [], "implicitDependencies": ["react-app"] },
     "ui-header": { "tags": [] },
-    "api": { "tags": [] }
+    "api": { "tags": [] },
+    "api-interface": { "tags": [] }
   }
 }

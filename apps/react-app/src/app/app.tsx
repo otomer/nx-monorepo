@@ -7,11 +7,15 @@ import star from './star.svg';
 
 import { Route, Link } from 'react-router-dom';
 import { PageTitle } from '@nx-monorepo/ui-header';
+import { ApiResponse, API_URL } from '@nx-monorepo/api-interface';
+//if you fail to import the api-interface lib, add "typescript.tsdk": "node_modules/typescript/lib" in your .vscode / settings.json
 
 export function App() {
-  const [apiResponse, setApiResponse] = useState({ message: 'Loading...' });
+  const [apiResponse, setApiResponse] = useState<ApiResponse>({
+    message: 'Loading...',
+  });
   useEffect(() => {
-    fetch('/api')
+    fetch(API_URL)
       .then((r) => r.json())
       .then(setApiResponse);
   }, []);

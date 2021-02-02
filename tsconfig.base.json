@@ -15,7 +15,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@nx-monorepo/ui-header": ["libs/ui-header/src/index.ts"]
+      "@nx-monorepo/ui-header": ["libs/ui-header/src/index.ts"],
+      "@nx-monorepo/api-interface": ["libs/api-interface/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

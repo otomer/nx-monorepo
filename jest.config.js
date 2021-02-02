@@ -3,5 +3,6 @@ module.exports = {
     '<rootDir>/apps/react-app',
     '<rootDir>/libs/ui-header',
     '<rootDir>/apps/api',
+    '<rootDir>/libs/api-interface',
   ],
 };
