@@ -8,6 +8,14 @@ This project was generated using [Nx](https://nx.dev).
 
 🔎 **Nx is a set of Extensible Dev Tools for Monorepos.**
 
+## Handy commands
+
+- Start API express server: `nx serve api`
+- Start React web application: `nx serve react-app`
+- Visualise the dependencies graph: `nx dep-graph`
+- Visualise the impacted dependencies graph: `nx affected:dep-graph`
+- Check a specific affected dependency: `nx affected:test`
+
 ## Adding capabilities to your workspace
 
 Nx supports many plugins which add capabilities for developing different types of applications and different tools.
